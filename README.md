@@ -57,6 +57,10 @@ El proyecto consolida información proveniente de cuatro tablas vinculadas por `
 
 ## 📂 Archivos Principales
 * `Proyecto_Sigma_Prediccion_de_Fuga_de_Clientes.ipynb`
+* `contract.csv`
+* `internet.csv`
+* `personal.csv`
+* `phone.csv`
 
 ## 🏁 Conclusión
 Se desarrolló un sistema de clasificación robusto basado en **LightGBM** que alcanza un **ROC-AUC de 0.8492** y una **sensibilidad de 0.7781** sobre datos no vistos. Esta solución proporciona una herramienta accionable para anticipar la deserción de clientes en telecomunicaciones, permitiendo focalizar campañas de fidelización y optimizar la inversión comercial de retención.
